@@ -1,0 +1,8 @@
+{
+  "name": "Copy of YPE Media - Growth Agency",
+  "description": "A high-performance business website for YPE Media, specializing in web design and cold email systems for dentists and real estate agents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
